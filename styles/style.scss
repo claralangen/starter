@@ -1,0 +1,12 @@
+  @import "./global/reset";
+  @import "./global/variables";
+
+  //Import Mixins
+  @import "./mixins/responsive";
+
+  //Import Components
+  @import "./components/header";
+
+  body{
+    background: #16ffe1;
+  }
